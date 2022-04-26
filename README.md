@@ -7,7 +7,7 @@ The Go server Help us setting the headers needed to use the web Workers in the b
 
 ## requirements
 
-Go > 16
+Go > 17
 ## install
 ```sh
 $ go install
@@ -24,7 +24,7 @@ $ go run server.go
 > Single thread Game of Life implementation.[^1]
 
 > http://localhost:3000/gol-thread
-> Multithread thread Game of Life implementation.[^1]
+> Multithread Game of Life implementation.[^1]
 
 [^1]:Code source is from the book **Multithread Javascript** By Thomas Hunter and Bryan English.
 
